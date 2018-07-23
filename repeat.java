@@ -20,7 +20,7 @@ public class repeat {
            			count++;	
            			}
            		}
-		if(count > 1){
+		if(count == 2){
 			System.out.println(arr[i]);
 		}
 		}
